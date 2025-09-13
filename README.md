@@ -3,8 +3,9 @@
 *A simple, nonprofit‑friendly scorecard to compare digital proposals and partners.*  
 2 axes × 10 questions each + an optional “context” section. Exports CSV and a quadrant chart PNG. Fully editable questions so you can repurpose it as a general decision framework for many decisions (vendor selection, grant triage, feature prioritization, etc.).
 
+Check out the current version [here]([url](https://claude.ai/public/artifacts/73ac4a7a-7274-4522-a9d2-4798fd969e92)). Created with and running as a [Claude]([url](https://claude.ai/)) artifact.
+
 > **License:** Code is MIT.  
-> Icons: lucide‑react (ISC). React (MIT).
 
 ---
 
