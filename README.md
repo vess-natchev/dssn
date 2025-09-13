@@ -158,12 +158,6 @@ You can also create your own — just follow the same structure.
 
 ---
 
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md). We follow the [Contributor Covenant](CODE_OF_CONDUCT.md).
-
-## Security
-Please read [SECURITY.md](SECURITY.md) for how to report vulnerabilities.
-
 ## License
-MIT © 2025 Vess N  
+MIT © 2025 Vess Natchev
 Icons: lucide‑react (ISC). React (MIT).
