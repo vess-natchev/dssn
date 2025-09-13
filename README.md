@@ -6,7 +6,7 @@
 
 Check out the current version [here](https://claude.ai/public/artifacts/73ac4a7a-7274-4522-a9d2-4798fd969e92). Created with and running as a [Claude](https://claude.ai/) artifact.
 
-> **License:** Code is MIT.  
+**License:** Code is MIT.  
 
 ---
 
