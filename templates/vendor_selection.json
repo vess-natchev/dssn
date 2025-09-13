@@ -1,0 +1,47 @@
+{
+  "Category A": [
+    {
+      "id": "T.1",
+      "attribute": "Example",
+      "question": "Example Q?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "defaultWeight": 10
+    }
+  ],
+  "Category B": [
+    {
+      "id": "T.2",
+      "attribute": "Example",
+      "question": "Another Q?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "defaultWeight": 10
+    }
+  ],
+  "Context": [
+    {
+      "id": "T.3",
+      "attribute": "Context",
+      "question": "Context Q?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "defaultWeight": 10
+    }
+  ]
+}
